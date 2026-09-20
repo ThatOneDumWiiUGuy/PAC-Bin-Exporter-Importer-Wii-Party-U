@@ -1,6 +1,6 @@
 # PAC-Bin-Exporter-Importer-Wii-Party-U
 Hello there! Do you want to edit or see assets inside the game Wii Party U? I hear a yes! This is a step by step guide on how to do so, Keep this in mind this has an importer and exporter that are much more flexible then the old way, however do keep in mind there could be bugs or glitches!
-First, we need da software needed to even extract the files, You may download them a here!: https://gamebanana.com/tools/24222
+First, we need da software needed to even extract the files, You may download them a here!: https://github.com/ThatOneDumWiiUGuy/PAC-Bin-Exporter-Importer-Wii-Party-U/releases/tag/V1
 
 The OG Tutorial is here!: https://gamebanana.com/tuts/19932
 Exporting
